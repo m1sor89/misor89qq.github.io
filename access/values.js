@@ -3,7 +3,7 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "01.15.2004"; // Дата рождения
+var birthdate = "15.01.2004"; // Дата рождения
 var fullname = "Степанець Владислав Олегович" // ФИО
 var name = "Владислав" // Имя
 
